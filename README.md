@@ -38,4 +38,4 @@
 ## Additional Scripts &middot;
 
 > ages.bash
->> Script to calculate a the solution for a linear equation in one variable (Descriptive Problem)
+>> Script to calculate the solution for a linear equation in one variable (Descriptive Problem)
