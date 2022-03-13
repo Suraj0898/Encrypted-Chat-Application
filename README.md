@@ -35,3 +35,7 @@
 > change-instance-type.sh
 >> Script to Change an Amazon EC2 instance type.
 
+## Additional Scripts &middot;
+
+> ages.bash
+>> Script to calculate a the solution for a linear equation in one variable (Descriptive Problem)
